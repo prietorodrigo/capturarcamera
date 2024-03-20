@@ -1,0 +1,1 @@
+Implementar em uma pequena tela de login (ou adaptar em um programa pré existente) a captura de uma imagem da câmera para a utilização neste software. (Conforme exemplo mostrado no material anterior).
